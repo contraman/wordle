@@ -1,0 +1,22 @@
+DEBUG:root:Wordle has started
+DEBUG:root:Puzzle no 1 has been initialized
+DEBUG:root:"bands" has been entered to guess list
+DEBUG:root:"sands" has been entered to guess list
+DEBUG:root:"moist" has been entered to guess list
+DEBUG:root:"ticks" has been entered to guess list
+DEBUG:root:"siter" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"sites" has been entered to guess list
+DEBUG:root:"fight" has been entered to guess list
+DEBUG:root:
+ b. a. n. d. s.
+ s. a. n. d. s.
+ m. o. i  s. t 
+ t  I  c. k. s.
+ s. I  T  e  s.
+ f. I  g. H  t 
+good letters: ['e', 'h', 'i', 'j', 'l', 'p', 'q', 'r', 't', 'u', 'v', 'w', 'x', 'y', 'z']
+bad letters: ['a', 'b', 'c', 'd', 'f', 'g', 'k', 'm', 'n', 'o', 's']
+DEBUG:root:You lost the game. Answer was "hithe"
+DEBUG:root:you exitted the game
+DEBUG:Comm:handle_close[72fc7454ad2111ed9212e4029b2f8302]({'header': {'msg_id': 'ac38e696-9b90f591c079b89c7be11e5d_42786_494', 'msg_type': 'comm_close', 'username': 'dukes', 'session': 'ac38e696-9b90f591c079b89c7be11e5d', 'date': datetime.datetime(2023, 2, 15, 14, 8, 37, 855262, tzinfo=tzutc()), 'version': '5.3'}, 'msg_id': 'ac38e696-9b90f591c079b89c7be11e5d_42786_494', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '72fc7454ad2111ed9212e4029b2f8302', 'data': {}}, 'buffers': []})
