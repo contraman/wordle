@@ -1,22 +1,32 @@
 DEBUG:root:Wordle has started
 DEBUG:root:Puzzle no 1 has been initialized
-DEBUG:root:"bands" has been entered to guess list
-DEBUG:root:"sands" has been entered to guess list
-DEBUG:root:"moist" has been entered to guess list
-DEBUG:root:"ticks" has been entered to guess list
-DEBUG:root:"siter" has not been entered to guess list
+DEBUG:root:"brags" has been entered to guess list
+DEBUG:root:"mound" has been entered to guess list
+DEBUG:root:"orbit" has been entered to guess list
+DEBUG:root:"frock" has been entered to guess list
+DEBUG:root:"felow" has not been entered to guess list
 DEBUG:root:input word is not found in word list
-DEBUG:root:"sites" has been entered to guess list
-DEBUG:root:"fight" has been entered to guess list
+DEBUG:root:"felon" has been entered to guess list
+DEBUG:root:"flezo" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"flevo" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"fleeo" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"felat" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"fello" has not been entered to guess list
+DEBUG:root:input word is not found in word list
+DEBUG:root:"moist" has been entered to guess list
 DEBUG:root:
- b. a. n. d. s.
- s. a. n. d. s.
- m. o. i  s. t 
- t  I  c. k. s.
- s. I  T  e  s.
- f. I  g. H  t 
-good letters: ['e', 'h', 'i', 'j', 'l', 'p', 'q', 'r', 't', 'u', 'v', 'w', 'x', 'y', 'z']
-bad letters: ['a', 'b', 'c', 'd', 'f', 'g', 'k', 'm', 'n', 'o', 's']
-DEBUG:root:You lost the game. Answer was "hithe"
+ b. r. a. g. s.
+ m. o  u. n. d.
+ o  r. b. i. t.
+ F  r. o  c. k.
+ F  e  l  o  n.
+ m. o  i. s. t.
+good letters: ['e', 'f', 'h', 'j', 'l', 'o', 'p', 'q', 'v', 'w', 'x', 'y', 'z']
+bad letters: ['a', 'b', 'c', 'd', 'g', 'i', 'k', 'm', 'n', 'r', 's', 't', 'u']
+DEBUG:root:You lost the game. Answer was "flexo"
 DEBUG:root:you exitted the game
-DEBUG:Comm:handle_close[72fc7454ad2111ed9212e4029b2f8302]({'header': {'msg_id': 'ac38e696-9b90f591c079b89c7be11e5d_42786_494', 'msg_type': 'comm_close', 'username': 'dukes', 'session': 'ac38e696-9b90f591c079b89c7be11e5d', 'date': datetime.datetime(2023, 2, 15, 14, 8, 37, 855262, tzinfo=tzutc()), 'version': '5.3'}, 'msg_id': 'ac38e696-9b90f591c079b89c7be11e5d_42786_494', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '72fc7454ad2111ed9212e4029b2f8302', 'data': {}}, 'buffers': []})
+DEBUG:Comm:handle_close[ac128ee62bb511ee9f49f7023a7b7f2d]({'header': {'msg_id': '43222b5c-06c953bcc44f74b5c5e47720_3659_81', 'msg_type': 'comm_close', 'username': 'dukes', 'session': '43222b5c-06c953bcc44f74b5c5e47720', 'date': datetime.datetime(2023, 7, 26, 13, 41, 15, 633899, tzinfo=tzutc()), 'version': '5.3'}, 'msg_id': '43222b5c-06c953bcc44f74b5c5e47720_3659_81', 'msg_type': 'comm_close', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'ac128ee62bb511ee9f49f7023a7b7f2d', 'data': {}}, 'buffers': []})
